@@ -1,6 +1,6 @@
 # Codsworth
 # Codsworth
-
+# Please use codsworth(lowercase "c") to download and install from source. Codsworth is used for edits/upgrades.
 **Codsworth** is your personal robotic butler—a Python-powered, extensible chatbot assistant that can answer questions, fetch weather and stock data, summarize news, and more. Designed for flexibility and easy extension, Codsworth is ideal for anyone who wants a smart, scriptable assistant in their terminal.
 
 ---

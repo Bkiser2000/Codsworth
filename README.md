@@ -107,6 +107,8 @@ codsworth/
     __init__.py
     intents.json
     dimensions.json
+    cryptodata.csv
+    stockdata.csv
 setup.cfg
 pyproject.toml
 README.md

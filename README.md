@@ -1,6 +1,6 @@
 # Codsworth
 # Codsworth
-# Please use codsworth(lowercase "c") to download and install from source. Codsworth is used for edits/upgrades.
+# Please use codsworth(lowercase "c") to download and install from source. Codsworth is used for edits/upgrades. It is available for installation via pip as well.
 **Codsworth** is your personal robotic butler—a Python-powered, extensible chatbot assistant that can answer questions, fetch weather and stock data, summarize news, and more. Designed for flexibility and easy extension, Codsworth is ideal for anyone who wants a smart, scriptable assistant in their terminal.
 
 ---
@@ -142,12 +142,12 @@ Pull requests and suggestions are welcome! Please open an issue or submit a PR.
 
 ---
 
-## Troubleshooting
+## Troubleshooting and bugs
 
 - **Model file not found:** Run `codsworth --train` before first use.
 - **Missing dependencies:** Ensure all requirements are installed.
 - **Data files missing:** Reinstall the package or check your installation.
-
+- **As of right now, the only bug I have noticed is that Codsworth isnt recognizing cryptocurrencies except for bitcoin. This is assuredly because of the edits I had to make in order for it to publish. Stocks function just fine, I'll publish the code for the model before the updates so hopefully someone can help me to figure out how to publish the fully working implementation without issues. For me, its my first time officially publishing a python package and I ran into errors that I didnt have when testing the chatbot file locally for some strange reason.
 ---
 
 Enjoy your new AI butler!
